@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-nikmihalevich-plugin",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "plugin for production project",
   "repository": "https://github.com/nikmihalevich/eslint-plugin-nikmihalevich-plugin",
   "keywords": [
